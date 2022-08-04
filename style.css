@@ -105,6 +105,22 @@ p {
     margin: 20px;
 }
 
+.social i {
+    display: inline-block;
+    text-decoration: none;
+    color: #fff;
+    padding: 12px 34px;
+    font-size: 46px;
+    background: transparent;
+    position: relative;
+    cursor: pointer;
+}
+
+.social:hover i {
+    color:#f44336;
+    transition: 1s;
+}
+
 .logo {
     height: 80px;
     margin: 30px;
